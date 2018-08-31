@@ -5,7 +5,9 @@
   (____/(____) (__) (____/(_/\/\_)(___/
 
   (c) 2017 Stuart Pittaway
-
+  
+  Test edit by Rick
+  
   This is the code for the cell module (one is needed for each series cell in a modular battery array (pack))
 
   This code runs on ATTINY85 processors and compiles with Arduino 1.8.5 environment
